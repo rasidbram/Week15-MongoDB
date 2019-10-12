@@ -1,4 +1,4 @@
-<h1>Make a app.js file for mongoDB</h1></hr>
+<h1>Make an app.js file for mongoDB</h1></hr>
 <p>Make a app.js file containing the following collections with listed attributes in the paranthesis.</p>
 <ul> 
 <li>Location (Name, ShortName, City, Country, Coordinates) </li>
